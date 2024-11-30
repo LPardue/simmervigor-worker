@@ -1,0 +1,5 @@
+name = "simmervigor-worker"
+main = "src/index.ts"
+compatibility_date = "2024-11-30"
+
+routes = [{pattern = "simmervig.org/*", zone_name = "simmervig.org"}]
